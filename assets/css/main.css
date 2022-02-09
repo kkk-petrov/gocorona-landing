@@ -167,7 +167,7 @@ body{
         background-color: #fff;
     }
     .header{
-        margin-bottom: 10px;
+        margin-bottom: 30px;
     }
 
     .menu__item{
@@ -435,4 +435,5 @@ body{
     .get-started__video{
         padding: 0;
     }
+
 }
