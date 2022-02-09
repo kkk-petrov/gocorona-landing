@@ -415,7 +415,7 @@ body{
 
 @media(max-width: 767.8px){
     .get-started__container{
-        padding: 70px 15px 30px 15px;
+        padding: 100px 15px 30px 15px;
     }
     .get-started__container::before{
         display:none;
