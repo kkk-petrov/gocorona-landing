@@ -1,1 +1,1 @@
-# gocorona-landing
+# GoCorona front-end
